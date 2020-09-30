@@ -1,0 +1,5 @@
+flask
+requests
+cachetools
+flask_caching
+redis
